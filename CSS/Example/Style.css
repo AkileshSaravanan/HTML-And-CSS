@@ -1,0 +1,43 @@
+h1{ 
+			text-align:center;
+		}
+h2{
+			color:red;
+			font-size:24px;
+		}
+p{
+			color:blue;
+			font-size:16px;
+		}
+*{
+			font-family:Verdana;
+		}
+.section1{
+			color:blue;
+			font-family:Verdana;
+		}
+#section2{
+			color:green;
+			font-family:Verdana;
+		}
+,section1,#section2{
+			font-family:Verdana;
+		}
+table{
+			test_align: right;
+		}
+.section1{
+			opacity=0.8;
+		}
+.section1 {
+    			background-image: url('https://cdn.codechef.com/Learning/MILOS.jpeg');
+}
+* {
+      border: 1px solid blue;
+}
+* {
+  background-color: lightblue;
+  border: 1px solid blue;
+  margin: 10px;
+  padding: 10px;
+}
