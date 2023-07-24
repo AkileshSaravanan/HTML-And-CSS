@@ -1,6 +1,6 @@
 # HTML-And-CSS
 
-# AUTHOR = AKILESH S,
+# AUTHOR = AKILESH S
 
 My self Learning on basics of HTML and CSS,
 
